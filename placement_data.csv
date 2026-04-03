@@ -1,0 +1,201 @@
+student_id,name,branch,cgpa,skills,internship,projects,placement_status,company,package
+0,Aman,CSE,9.47,"SQL,Excel",1,3,Placed,Infosys,5.07
+1,Riya,ECE,7.63,"SQL,Excel",2,3,Placed,Wipro,7.03
+2,Riya,CSE,5.31,"SQL,Excel",0,5,Not Placed,None,0.0
+3,Rahul,ME,8.28,"SQL,Excel",0,5,Not Placed,None,0.0
+4,Aman,ME,6.41,Java,0,3,Not Placed,None,0.0
+5,Karan,CSE,8.12,Java,1,3,Placed,Accenture,9.58
+6,Anjali,IT,5.61,"Python,SQL",2,5,Not Placed,None,0.0
+7,Sneha,IT,6.67,C++,1,5,Not Placed,None,0.0
+8,Karan,CSE,6.94,"Python,SQL",0,4,Not Placed,None,0.0
+9,Palak,ECE,8.34,Java,0,2,Not Placed,None,0.0
+10,Sneha,IT,6.13,Java,1,4,Not Placed,None,0.0
+11,Riya,CSE,7.25,C++,0,5,Not Placed,None,0.0
+12,Sneha,ME,8.13,"Python,ML",0,3,Not Placed,None,0.0
+13,Karan,ME,5.56,"Python,ML",2,4,Not Placed,None,0.0
+14,Rahul,IT,8.83,"Python,ML",0,2,Not Placed,None,0.0
+15,Sneha,ME,9.03,"SQL,Excel",2,5,Placed,Infosys,11.22
+16,Anjali,ECE,7.77,C++,0,4,Not Placed,None,0.0
+17,Sneha,CSE,9.43,C++,2,2,Placed,Accenture,6.83
+18,Anjali,ECE,5.7,C++,2,1,Not Placed,None,0.0
+19,Riya,ME,6.54,Java,2,4,Not Placed,None,0.0
+20,Rahul,CSE,8.62,"Python,ML",0,5,Not Placed,None,0.0
+21,Aman,IT,8.7,Java,2,5,Placed,TCS,8.51
+22,Rahul,IT,9.21,"Python,ML",0,3,Not Placed,None,0.0
+23,Sneha,CSE,5.73,C++,1,2,Not Placed,None,0.0
+24,Palak,CSE,5.24,C++,0,1,Not Placed,None,0.0
+25,Aman,ME,8.02,"Python,SQL",1,1,Not Placed,None,0.0
+26,Sneha,CSE,6.98,"Python,SQL",0,1,Not Placed,None,0.0
+27,Aman,ECE,7.43,C++,1,3,Placed,Wipro,10.99
+28,Rahul,IT,5.48,"Python,SQL",2,2,Not Placed,None,0.0
+29,Rahul,CSE,8.42,"Python,SQL",2,3,Placed,Infosys,8.62
+30,Anjali,CSE,7.88,"Python,ML",0,2,Not Placed,None,0.0
+31,Karan,IT,8.39,"SQL,Excel",1,1,Not Placed,None,0.0
+32,Palak,CSE,5.01,"Python,SQL",2,1,Not Placed,None,0.0
+33,Aman,ME,6.29,"SQL,Excel",2,2,Not Placed,None,0.0
+34,Karan,ECE,6.5,"Python,SQL",2,4,Not Placed,None,0.0
+35,Rahul,ECE,7.23,C++,2,3,Placed,TCS,9.03
+36,Rahul,ME,5.99,"Python,SQL",0,4,Not Placed,None,0.0
+37,Anjali,ME,8.55,"Python,SQL",1,5,Placed,Accenture,4.58
+38,Anjali,ECE,6.19,"Python,SQL",2,2,Not Placed,None,0.0
+39,Rahul,CSE,5.51,Java,0,1,Not Placed,None,0.0
+40,Rahul,ME,7.68,"Python,SQL",2,3,Placed,Infosys,7.12
+41,Rahul,ME,5.01,Java,2,3,Not Placed,None,0.0
+42,Aman,ECE,8.6,Java,0,3,Not Placed,None,0.0
+43,Karan,ME,8.3,"Python,SQL",1,3,Placed,Accenture,9.64
+44,Rahul,ECE,8.91,"Python,SQL",1,5,Placed,Accenture,10.43
+45,Riya,ECE,5.02,"SQL,Excel",2,5,Not Placed,None,0.0
+46,Riya,CSE,9.38,"Python,SQL",0,5,Not Placed,None,0.0
+47,Palak,ECE,5.34,C++,2,1,Not Placed,None,0.0
+48,Riya,ME,9.19,C++,2,2,Placed,Wipro,5.48
+49,Rahul,ME,7.23,Java,2,2,Placed,Infosys,8.74
+50,Palak,IT,8.74,"Python,ML",2,5,Placed,Accenture,5.71
+51,Sneha,CSE,8.53,"SQL,Excel",1,5,Placed,Accenture,6.28
+52,Rahul,ME,5.25,"Python,SQL",0,5,Not Placed,None,0.0
+53,Vikas,IT,8.76,"Python,SQL",2,3,Placed,Infosys,7.6
+54,Sneha,ME,5.44,Java,2,5,Not Placed,None,0.0
+55,Palak,ECE,5.44,"SQL,Excel",0,4,Not Placed,None,0.0
+56,Riya,ECE,7.0,"Python,SQL",2,3,Not Placed,None,0.0
+57,Riya,ME,9.3,"SQL,Excel",0,4,Not Placed,None,0.0
+58,Riya,CSE,8.68,"Python,SQL",0,1,Not Placed,None,0.0
+59,Aman,ECE,6.17,"SQL,Excel",2,3,Not Placed,None,0.0
+60,Anjali,CSE,5.88,"Python,ML",0,2,Not Placed,None,0.0
+61,Sneha,ME,7.51,"Python,SQL",2,5,Placed,Infosys,11.55
+62,Rahul,CSE,7.55,C++,0,3,Not Placed,None,0.0
+63,Vikas,ECE,5.58,"Python,SQL",0,4,Not Placed,None,0.0
+64,Palak,ME,7.59,C++,2,1,Not Placed,None,0.0
+65,Vikas,IT,7.98,"SQL,Excel",0,5,Not Placed,None,0.0
+66,Rahul,CSE,6.22,"Python,SQL",1,2,Not Placed,None,0.0
+67,Riya,ECE,5.53,"Python,SQL",2,3,Not Placed,None,0.0
+68,Riya,ECE,5.41,Java,2,2,Not Placed,None,0.0
+69,Vikas,ECE,8.14,"SQL,Excel",0,4,Not Placed,None,0.0
+70,Palak,ECE,6.33,"Python,ML",1,2,Not Placed,None,0.0
+71,Anjali,ECE,5.76,"SQL,Excel",2,4,Not Placed,None,0.0
+72,Rahul,CSE,8.15,C++,0,4,Not Placed,None,0.0
+73,Sneha,IT,5.07,"SQL,Excel",1,1,Not Placed,None,0.0
+74,Riya,CSE,9.24,"Python,SQL",2,2,Placed,Accenture,11.58
+75,Palak,IT,7.15,Java,1,2,Placed,TCS,8.08
+76,Rahul,ME,5.96,Java,2,1,Not Placed,None,0.0
+77,Anjali,ECE,9.0,Java,2,2,Placed,Infosys,11.3
+78,Anjali,ECE,6.16,"Python,ML",0,1,Not Placed,None,0.0
+79,Vikas,ECE,6.03,C++,1,1,Not Placed,None,0.0
+80,Palak,CSE,9.23,C++,2,5,Placed,Accenture,5.17
+81,Rahul,IT,7.27,Java,2,4,Placed,Accenture,4.69
+82,Riya,ME,5.9,"Python,SQL",1,5,Not Placed,None,0.0
+83,Riya,CSE,5.25,Java,1,5,Not Placed,None,0.0
+84,Rahul,ME,8.51,Java,0,5,Not Placed,None,0.0
+85,Vikas,CSE,9.13,"SQL,Excel",0,5,Not Placed,None,0.0
+86,Rahul,CSE,5.55,"SQL,Excel",1,1,Not Placed,None,0.0
+87,Anjali,CSE,7.41,"Python,ML",2,2,Placed,TCS,7.13
+88,Vikas,IT,5.61,"Python,ML",2,2,Not Placed,None,0.0
+89,Sneha,CSE,8.85,"SQL,Excel",2,2,Placed,TCS,7.64
+90,Anjali,ME,7.71,Java,0,5,Not Placed,None,0.0
+91,Karan,ECE,9.48,C++,2,4,Placed,Infosys,8.81
+92,Riya,ECE,6.84,"Python,ML",2,5,Not Placed,None,0.0
+93,Vikas,ME,9.12,"Python,ML",2,1,Not Placed,None,0.0
+94,Aman,CSE,8.61,"Python,ML",2,5,Placed,Wipro,9.22
+95,Vikas,ME,8.71,C++,0,3,Not Placed,None,0.0
+96,Rahul,CSE,6.08,"Python,ML",0,1,Not Placed,None,0.0
+97,Aman,ECE,9.05,"SQL,Excel",1,4,Placed,Infosys,11.94
+98,Karan,ME,8.66,"Python,SQL",0,1,Not Placed,None,0.0
+99,Rahul,CSE,5.56,C++,0,5,Not Placed,None,0.0
+100,Aman,ECE,6.04,"Python,ML",2,3,Not Placed,None,0.0
+101,Vikas,IT,6.47,C++,2,3,Not Placed,None,0.0
+102,Rahul,ME,7.66,"Python,ML",1,4,Placed,Infosys,10.83
+103,Sneha,ECE,5.57,"SQL,Excel",1,5,Not Placed,None,0.0
+104,Palak,ECE,9.28,"SQL,Excel",1,5,Placed,Accenture,4.18
+105,Vikas,ME,7.18,C++,1,5,Placed,TCS,5.79
+106,Riya,CSE,8.36,Java,1,2,Placed,Infosys,8.01
+107,Riya,IT,5.66,C++,0,5,Not Placed,None,0.0
+108,Palak,ECE,9.28,C++,1,2,Placed,Wipro,4.7
+109,Anjali,CSE,5.16,"Python,SQL",0,1,Not Placed,None,0.0
+110,Vikas,ME,9.19,Java,1,5,Placed,Infosys,8.38
+111,Rahul,IT,6.58,"SQL,Excel",0,2,Not Placed,None,0.0
+112,Aman,ECE,9.21,"Python,ML",1,2,Placed,Accenture,7.07
+113,Vikas,ECE,9.07,C++,2,3,Placed,Accenture,4.09
+114,Rahul,CSE,6.87,Java,0,4,Not Placed,None,0.0
+115,Rahul,ECE,6.74,Java,0,4,Not Placed,None,0.0
+116,Sneha,ECE,7.7,C++,2,1,Not Placed,None,0.0
+117,Aman,IT,7.77,Java,0,4,Not Placed,None,0.0
+118,Riya,IT,7.63,Java,1,2,Placed,TCS,7.21
+119,Aman,IT,7.8,Java,1,4,Placed,Accenture,10.21
+120,Riya,IT,9.4,Java,1,5,Placed,Infosys,7.91
+121,Rahul,ME,8.25,Java,0,3,Not Placed,None,0.0
+122,Rahul,IT,8.54,C++,1,4,Placed,Infosys,5.19
+123,Sneha,ECE,8.94,"Python,SQL",1,4,Placed,Accenture,8.97
+124,Riya,IT,9.27,C++,2,4,Placed,Infosys,7.22
+125,Karan,CSE,5.37,"SQL,Excel",1,5,Not Placed,None,0.0
+126,Vikas,ME,6.54,Java,0,5,Not Placed,None,0.0
+127,Aman,ECE,8.41,"SQL,Excel",0,4,Not Placed,None,0.0
+128,Rahul,CSE,6.97,"SQL,Excel",2,2,Not Placed,None,0.0
+129,Vikas,ME,8.04,"Python,SQL",1,1,Not Placed,None,0.0
+130,Rahul,IT,5.78,"Python,SQL",2,5,Not Placed,None,0.0
+131,Palak,IT,8.7,"Python,ML",0,5,Not Placed,None,0.0
+132,Aman,ME,6.89,C++,2,5,Not Placed,None,0.0
+133,Sneha,IT,7.69,"Python,SQL",2,1,Not Placed,None,0.0
+134,Rahul,ECE,5.99,Java,1,2,Not Placed,None,0.0
+135,Vikas,ECE,9.29,"SQL,Excel",1,2,Placed,TCS,11.49
+136,Aman,ECE,8.05,Java,2,3,Placed,Accenture,4.93
+137,Riya,ECE,7.14,"SQL,Excel",1,3,Placed,Wipro,9.24
+138,Vikas,ME,7.91,"Python,ML",1,3,Placed,Accenture,6.03
+139,Anjali,ECE,9.08,"Python,SQL",2,5,Placed,Infosys,8.03
+140,Karan,ECE,7.67,C++,2,2,Placed,Accenture,4.37
+141,Aman,ME,6.31,"Python,SQL",0,5,Not Placed,None,0.0
+142,Aman,ECE,7.27,"Python,ML",1,3,Placed,Infosys,10.26
+143,Palak,ME,6.61,"Python,SQL",2,3,Not Placed,None,0.0
+144,Palak,CSE,7.93,C++,0,1,Not Placed,None,0.0
+145,Sneha,CSE,6.55,"Python,ML",1,4,Not Placed,None,0.0
+146,Aman,ECE,6.21,"Python,ML",1,1,Not Placed,None,0.0
+147,Palak,CSE,6.74,C++,1,3,Not Placed,None,0.0
+148,Rahul,IT,9.17,"SQL,Excel",0,4,Not Placed,None,0.0
+149,Aman,ECE,7.57,"Python,SQL",2,4,Placed,TCS,7.76
+150,Karan,ECE,8.16,Java,1,3,Placed,Wipro,5.38
+151,Palak,IT,7.88,"Python,ML",0,5,Not Placed,None,0.0
+152,Rahul,ME,9.05,C++,1,2,Placed,Wipro,7.65
+153,Vikas,CSE,8.65,C++,1,3,Placed,Infosys,5.48
+154,Vikas,CSE,6.84,"Python,SQL",1,4,Not Placed,None,0.0
+155,Sneha,IT,7.2,Java,0,3,Not Placed,None,0.0
+156,Palak,IT,7.47,C++,1,3,Placed,Infosys,9.02
+157,Karan,ME,5.83,"Python,ML",2,3,Not Placed,None,0.0
+158,Rahul,ME,5.21,"Python,SQL",0,1,Not Placed,None,0.0
+159,Palak,CSE,5.63,Java,1,2,Not Placed,None,0.0
+160,Rahul,IT,5.11,Java,0,4,Not Placed,None,0.0
+161,Riya,ME,9.31,C++,1,2,Placed,Wipro,11.86
+162,Sneha,IT,9.44,"Python,ML",1,5,Placed,TCS,6.45
+163,Karan,ME,5.6,"Python,ML",2,1,Not Placed,None,0.0
+164,Anjali,ECE,6.05,C++,2,2,Not Placed,None,0.0
+165,Palak,CSE,7.48,"SQL,Excel",2,3,Placed,TCS,11.99
+166,Rahul,CSE,5.91,C++,2,5,Not Placed,None,0.0
+167,Riya,ME,6.54,"Python,ML",1,3,Not Placed,None,0.0
+168,Sneha,IT,6.99,"Python,SQL",2,1,Not Placed,None,0.0
+169,Karan,ME,8.03,"Python,ML",2,5,Placed,Wipro,4.38
+170,Vikas,ECE,5.17,C++,0,1,Not Placed,None,0.0
+171,Palak,ECE,7.48,"SQL,Excel",1,1,Not Placed,None,0.0
+172,Sneha,CSE,8.05,Java,2,1,Not Placed,None,0.0
+173,Riya,CSE,8.61,"Python,SQL",1,4,Placed,TCS,6.34
+174,Karan,CSE,8.13,"Python,ML",2,4,Placed,Accenture,6.03
+175,Rahul,IT,9.05,"Python,ML",1,3,Placed,Wipro,7.8
+176,Karan,IT,7.91,C++,0,1,Not Placed,None,0.0
+177,Palak,IT,7.95,C++,2,1,Not Placed,None,0.0
+178,Rahul,ME,8.46,"Python,SQL",1,3,Placed,Accenture,11.47
+179,Sneha,IT,9.27,C++,1,1,Not Placed,None,0.0
+180,Karan,ECE,6.66,Java,0,1,Not Placed,None,0.0
+181,Karan,IT,5.46,C++,0,3,Not Placed,None,0.0
+182,Riya,ECE,9.1,"Python,SQL",0,4,Not Placed,None,0.0
+183,Karan,CSE,8.4,C++,1,2,Placed,Infosys,11.84
+184,Anjali,ME,7.43,"Python,ML",1,4,Placed,Wipro,8.22
+185,Vikas,ECE,6.83,"Python,ML",1,4,Not Placed,None,0.0
+186,Karan,IT,6.83,"Python,SQL",0,1,Not Placed,None,0.0
+187,Karan,ME,8.98,"Python,SQL",2,3,Placed,TCS,8.15
+188,Karan,CSE,8.26,Java,1,1,Not Placed,None,0.0
+189,Riya,IT,5.76,"SQL,Excel",2,1,Not Placed,None,0.0
+190,Sneha,ECE,5.78,Java,0,5,Not Placed,None,0.0
+191,Anjali,IT,7.17,Java,1,3,Placed,TCS,5.91
+192,Riya,IT,6.15,C++,2,5,Not Placed,None,0.0
+193,Rahul,ECE,8.19,Java,2,3,Placed,TCS,4.54
+194,Anjali,CSE,6.82,"Python,SQL",1,2,Not Placed,None,0.0
+195,Karan,ECE,5.05,"SQL,Excel",2,4,Not Placed,None,0.0
+196,Vikas,CSE,7.35,"Python,SQL",2,2,Placed,Wipro,6.28
+197,Palak,ECE,8.85,Java,0,1,Not Placed,None,0.0
+198,Aman,IT,5.94,Java,1,2,Not Placed,None,0.0
+199,Anjali,ECE,8.79,"Python,SQL",2,4,Placed,TCS,7.68

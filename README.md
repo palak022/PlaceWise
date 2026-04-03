@@ -242,7 +242,7 @@ This project can be improved further by:
 
 ## Dashboard Preview
 
-![Dashboard]("C:\Users\palak\OneDrive\Pictures\Screenshots\Screenshot 2026-04-03 200135.png")
+![Dashboard](dashboard.png)
 
 ---
 

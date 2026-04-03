@@ -240,6 +240,12 @@ This project can be improved further by:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard]("C:\Users\palak\OneDrive\Pictures\Screenshots\Screenshot 2026-04-03 200135.png")
+
+---
+
 ## Conclusion
 
 PlaceWise is a complete placement analytics project that combines Python, SQL, and Power BI to generate useful placement insights. It is useful for students, placement cells, and colleges to understand placement trends and improve performance.

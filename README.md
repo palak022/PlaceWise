@@ -242,7 +242,7 @@ This project can be improved further by:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
